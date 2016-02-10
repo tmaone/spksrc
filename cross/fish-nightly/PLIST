@@ -1,0 +1,8 @@
+bin:bin/fish
+bin:bin/fish_indent
+etc:etc/fish/config.fish
+shr:share/doc
+shr:share/fish
+shr:share/locale
+shr:share/man
+shr:share/pkgconfig
